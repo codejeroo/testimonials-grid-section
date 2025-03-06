@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/codejeroo/social-links-profile](Solution Link)
-- Live Site URL: [https://codejeroo.github.io/social-links-profile/](Live Site Link)
+- Solution URL:[Solution Link][https://github.com/codejeroo/testimonials-grid-section]
+- Live Site URL:[Live Site Link][https://codejeroo.github.io/testimonials-grid-section]
 
 
 ### Built with
